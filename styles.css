@@ -1,0 +1,13 @@
+#isItLoaded {
+    display: none;
+}
+
+#loading {
+    width: 50%;
+    height: 70vh;
+    z-index: 10;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
